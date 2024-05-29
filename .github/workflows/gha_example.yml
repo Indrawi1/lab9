@@ -13,7 +13,7 @@ jobs:
     
     permissions:
       contents: read
-      packages: write  # Ensure this permission is set for pushing to GHCR
+      packages: write  
       
     steps:
       - 
