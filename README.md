@@ -22,7 +22,8 @@ Ten fragment kodu skanuje obraz platformy Docker za pomocą akcji Docker Scout
 
 WYNIK:
 
-![image](https://github.com/Indrawi1/lab9/assets/98088474/c3217115-46c7-42b1-950b-d01717914d80)
+![image](https://github.com/Indrawi1/lab9/assets/98088474/57b37d23-80fd-4304-9a71-a219a3018ee8)
+
 
 
 ### Sprawdzenie ctirical and high
@@ -44,7 +45,8 @@ Ten fragment używa jq do filtrowania wyników skanowania i zliczania liczby wys
 
 WYNIK:
 
-![image](https://github.com/Indrawi1/lab9/assets/98088474/f4b46822-6dd7-48b9-8c80-77309e375f23)
+![image](https://github.com/Indrawi1/lab9/assets/98088474/641cabbf-4576-47b2-9fe7-9ca1f8f64a09)
+
 
 
 ### Wysłanie obrazu na Github
@@ -89,13 +91,17 @@ Trzeci krok: budowanie i wysyłaniу obrazu Docker do GitHub Container Registry.
 WYNIKI:
 
 Logowanie
-![image](https://github.com/Indrawi1/lab9/assets/98088474/ae157840-40d1-486f-8651-fe7475132304)
+![image](https://github.com/Indrawi1/lab9/assets/98088474/6b7e6d38-a61e-4b06-ad60-a8a3ca8e6173)
+
 
 Obraz na github
-![image](https://github.com/Indrawi1/lab9/assets/98088474/2c534321-bbab-4eef-9b42-b59085457f8c)
+![image](https://github.com/Indrawi1/lab9/assets/98088474/62f41354-8d72-4b6b-b8ef-ab42caf3910c)
+
+https://github.com/users/Indrawi1/packages/container/lab9/versions
 
 Obraz na dockerhub
-![image](https://github.com/Indrawi1/lab9/assets/98088474/1533b018-0583-4ac6-a89a-26396e307218)
+![image](https://github.com/Indrawi1/lab9/assets/98088474/5e02a2fd-1952-4158-95ef-de0e50684c6a)
+
 
 Wynik działania 
 ![image](https://github.com/Indrawi1/lab9/assets/98088474/37b1a28c-b311-4ea9-942a-af0560fadaf5)
