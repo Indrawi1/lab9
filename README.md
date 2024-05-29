@@ -2,7 +2,7 @@
 
 Opis
 - [Skanowanie zagrożeń](#Skanowanie-zagrożeń)
-- [Sprawdzenie ctirical and high](#Sprawdzenie-critical-and-high)
+- [Sprawdzenie ctirical i high](#Sprawdzenie-critical-i-high)
 - [Wysłanie obrazu na Github](#Wysłanie-obrazu-na-Github)
 
 ### Skanowanie zagrożeń
@@ -26,7 +26,7 @@ WYNIK:
 
 
 
-### Sprawdzenie ctirical and high
+### Sprawdzenie ctirical i high
 
 ```yaml
 name: Check for critical and high vulnerabilities
