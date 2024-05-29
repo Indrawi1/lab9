@@ -26,7 +26,7 @@ WYNIK:
 
 
 
-### Sprawdzenie ctirical i high
+### Sprawdzenie critical i high
 
 ```yaml
 name: Check for critical and high vulnerabilities
