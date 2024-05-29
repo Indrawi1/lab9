@@ -104,7 +104,7 @@ Obraz na dockerhub
 
 
 Wynik działania 
-![image](https://github.com/Indrawi1/lab9/assets/98088474/37b1a28c-b311-4ea9-942a-af0560fadaf5)
+![image](https://github.com/Indrawi1/lab9/assets/98088474/7934263d-dd86-4f72-b110-fedadfb46dac)
 
 
 
