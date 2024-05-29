@@ -103,8 +103,12 @@ Obraz na dockerhub
 ![image](https://github.com/Indrawi1/lab9/assets/98088474/5e02a2fd-1952-4158-95ef-de0e50684c6a)
 
 
-Wynik działania 
+Wynik działania Dockerhub
 ![image](https://github.com/Indrawi1/lab9/assets/98088474/7934263d-dd86-4f72-b110-fedadfb46dac)
+
+Wynik działania Github
+![image](https://github.com/Indrawi1/lab9/assets/98088474/55bf1376-5ec1-4140-b4da-f6c44c89b360)
+
 
 
 
